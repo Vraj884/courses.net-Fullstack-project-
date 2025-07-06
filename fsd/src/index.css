@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#footer{
+    position: sticky;
+    bottom: 0;
+}
+html{
+    height: 100vh   ;
+
+}
+body{
+    background: #002C54;
+}
+ .active{
+    text-decoration: underline;
+    position: relative;
+}
+ .active::after{
+    content: '';
+    background: black;
+    width: 100%;
+    height: 110%;
+    position: absolute;
+    z-index: -1;
+    top: 0%;
+    left: 0%;
+}
+.dark .active{
+    background-color: black;
+    text-decoration: underline;
+    position: relative;
+}
+.dark .active::after{
+    content: '';
+    background: linear-gradient(to right ,#008cff , #e100ff);
+    width: 100%;
+    height: 110%;
+    position: absolute;
+    z-index: -1;
+    top: 0%;
+    left: 0%;
+}
+.dark #Seachbutton {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.dark #Seachbutton::after{
+    content: '';
+    background: linear-gradient(to bottom right ,#008cff , #e100ff);
+    position: absolute;
+    border-radius: 9999px;
+    width: 106%;
+    height: 112%;
+    z-index: -1;
+}
+.dark .customborder{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dark .customborder::after{
+    content: '';
+    background: linear-gradient(to bottom right ,#008cff , #e100ff);
+    position: absolute;
+    width: 102%;
+    height: 110%;
+    z-index: -1;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
