@@ -163,13 +163,13 @@ http://localhost:7000
 ![Homepage Screenshot](home.png)
 
 ### Search Results
-![Search Results](home.png)
+![Search Results](search.png)
 
 ### Login Page
-![Login Page](home.png)
+![Login Page](login.png)
 
 ### Profile Update
-![Profile Update](home.png)
+![Profile Update](profile.png)
 
 ```
 
