@@ -83,7 +83,7 @@ courses-net/
 ### 📁 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/courses-net.git
+git clone https://github.com/your-username/courses-net.git](https://github.com/Vraj884/courses.net-Fullstack-project-.git
 cd courses-net
 ```
 
