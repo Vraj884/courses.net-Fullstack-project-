@@ -160,16 +160,16 @@ http://localhost:7000
 
 ```md
 ### Homepage
-![Homepage Screenshot](screenshots/home.png)
+![Homepage Screenshot](home.png)
 
 ### Search Results
-![Search Results](screenshots/home.png)
+![Search Results](home.png)
 
 ### Login Page
-![Login Page](screenshots/home.png)
+![Login Page](home.png)
 
 ### Profile Update
-![Profile Update](screenshots/home.png)
+![Profile Update](home.png)
 
 ```
 
