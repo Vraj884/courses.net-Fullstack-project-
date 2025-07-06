@@ -156,8 +156,6 @@ http://localhost:7000
 
 ## 🖼️ Screenshots
 
-> Place these inside `/screenshots/` at the project root for proper rendering.
-
 ### Homepage
 ![Homepage Screenshot](home.png)
 
