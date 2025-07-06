@@ -160,16 +160,16 @@ http://localhost:7000
 
 ```md
 ### Homepage
-![Homepage Screenshot](https://github.com/Vraj884/courses.net-Fullstack-project-/blob/main/screenshots/home.png?raw=true)
+![Homepage Screenshot](screenshots/home.png)
 
 ### Search Results
-![Search Results](https://github.com/Vraj884/courses.net-Fullstack-project-/blob/main/screenshots/search.png?raw=true)
+![Search Results](screenshots/home.png)
 
 ### Login Page
-![Login Page](https://github.com/Vraj884/courses.net-Fullstack-project-/blob/main/screenshots/login.png?raw=true)
+![Login Page](screenshots/home.png)
 
 ### Profile Update
-![Profile Update](https://github.com/Vraj884/courses.net-Fullstack-project-/blob/main/screenshots/profile.png?raw=true)
+![Profile Update](screenshots/home.png)
 
 ```
 
