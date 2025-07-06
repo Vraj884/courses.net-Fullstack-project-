@@ -159,10 +159,18 @@ http://localhost:7000
 > Place these inside `/screenshots/` at the project root for proper rendering.
 
 ```md
-![Home Page](screenshots/home.png)
-![Search Results](screenshots/search.png)
-![Login Page](screenshots/login.png)
-![Profile Update](screenshots/profile.png)
+### Homepage
+![Homepage Screenshot](https://github.com/Vraj884/courses.net-Fullstack-project-/blob/main/screenshots/home.png?raw=true)
+
+### Search Results
+![Search Results](https://github.com/Vraj884/courses.net-Fullstack-project-/blob/main/screenshots/search.png?raw=true)
+
+### Login Page
+![Login Page](https://github.com/Vraj884/courses.net-Fullstack-project-/blob/main/screenshots/login.png?raw=true)
+
+### Profile Update
+![Profile Update](https://github.com/Vraj884/courses.net-Fullstack-project-/blob/main/screenshots/profile.png?raw=true)
+
 ```
 
 ---
