@@ -1,0 +1,22 @@
+{
+  "name": "fsd_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vraj884",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.6"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0",
+    "mongoose": "^8.6.4",
+    "nodemailer": "^6.9.15"
+  }
+}

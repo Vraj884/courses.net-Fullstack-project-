@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Node modules (always ignore this)
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Optional: IDE-specific files
+.vscode/
+.DS_Store
+
+# Optional: Build output
+dist/
+build/
