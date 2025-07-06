@@ -159,10 +159,10 @@ http://localhost:7000
 > Place these inside `/screenshots/` at the project root for proper rendering.
 
 ```md
-![Home Page](./screenshots/home.png)
-![Search Results](./screenshots/search.png)
-![Login Page](./screenshots/login.png)
-![Profile Update](./screenshots/profile.png)
+![Home Page](screenshots/home.png)
+![Search Results](screenshots/search.png)
+![Login Page](screenshots/login.png)
+![Profile Update](screenshots/profile.png)
 ```
 
 ---
