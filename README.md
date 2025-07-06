@@ -124,7 +124,6 @@ npm install
 ```env
 USERNAME=your.email@gmail.com
 PASS=your_gmail_app_password
-EMAIL_USER=your.email@gmail.com
 ```
 
 > ⚠️ Use a [Gmail App Password](https://myaccount.google.com/apppasswords) if you have 2FA.
