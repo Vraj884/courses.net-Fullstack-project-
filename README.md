@@ -158,7 +158,6 @@ http://localhost:7000
 
 > Place these inside `/screenshots/` at the project root for proper rendering.
 
-```md
 ### Homepage
 ![Homepage Screenshot](home.png)
 
@@ -171,7 +170,6 @@ http://localhost:7000
 ### Profile Update
 ![Profile Update](profile.png)
 
-```
 
 ---
 
