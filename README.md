@@ -44,10 +44,10 @@ courses-net/
 │   └── index.js
 │
 ├── screenshots/                # Screenshot images for README
-│   ├── home.png
-│   ├── search.png
-│   ├── login.png
-│   └── profile.png
+├── home.png
+├── search.png
+├── login.png
+└── profile.png
 │
 ├── .env                        # Environment variables
 ├── package.json
