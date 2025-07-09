@@ -192,6 +192,7 @@ Pull requests and suggestions are welcome! Please fork the repo and open a PR.
 
 ---
 
-## 📃 License
+## 🧾 License
 
-MIT © 2025
+[MIT](LICENSE)
+
